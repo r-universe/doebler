@@ -3,3 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CAMAN"]
+	path = CAMAN
+	url = https://github.com/cran/CAMAN
+	shallow = true
+	registered = true
+[submodule "mada"]
+	path = mada
+	url = https://github.com/cran/mada
+	shallow = true
+	registered = true
